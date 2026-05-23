@@ -279,6 +279,4 @@ Backend can store data in MongoDB
 Khalil Bou Khalil
 
 
-# License
 
-This project is intended for educational purposes.
